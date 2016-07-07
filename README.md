@@ -1,2 +1,2 @@
-# google-homepage
-My first repository on GitHub.
+# the_odin_project
+www.theodinproject.com
